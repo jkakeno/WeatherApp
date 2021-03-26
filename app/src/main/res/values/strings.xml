@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="search_hint">City Name</string>
+    <string name="search_button_label">Lookup</string>
+    <string name="feels_like">Feels Like: %1$s</string>
+    <string name="temp">Temp: %1$s</string>
+</resources>
